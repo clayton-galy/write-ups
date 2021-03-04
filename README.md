@@ -6,10 +6,10 @@ I am continually adding to this list as I find time with school and personal lif
 
 # TryHackMe Write-Ups
 
-### My TryHackMe Profile
+## My TryHackMe Profile
 >https://tryhackme.com/p/RatedPilot  
 
-## My Current List of TryHackMe Write-Ups of Challenge Boxes
+### My Current List of TryHackMe Write-Ups of Challenge Boxes
 
 Colddbox 
 >https://www.notion.so/Colddbox-a949d208d7cc4c2a8730237596d5bdc8
