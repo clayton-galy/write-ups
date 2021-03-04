@@ -1,6 +1,6 @@
 This is a list of my rough write-ups 
 
-Most of them were written as notes for myself while completing the CTFs and were not intentially created as walkthroughs
+Most of these were written as notes for myself while completing the CTFs and were not intentially created as walkthroughs
 
 I am continually adding to this list as I find time with school and personal life
 
