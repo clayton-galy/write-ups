@@ -87,3 +87,14 @@ https://www.notion.so/Pickle-Rick-f29b9bef139c4c89bb5ef95183e1f1ac
 
 Mr Robot
 https://www.notion.so/Mr-Robot-71d6b2b50b8d479eab77ed3823808622
+
+# CyberSecLabs Write-Ups
+
+Shares
+https://www.notion.so/Shares-cefc34033bca4380a81c991d862038f8
+
+Zero
+https://www.notion.so/Zero-e88b125d23b84f3788667e9202f1ffa0
+
+Office
+https://www.notion.so/Office-d40709bf409f4c368513c369fefc9b0e
