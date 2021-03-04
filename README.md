@@ -1,4 +1,4 @@
-# Write-Ups
+# TryHackMe Write-Ups
 My Current List of TryHackMe Write-Ups of Challenge Boxes
 
 Colddbox
