@@ -11,6 +11,9 @@ I am continually adding to this list as I find time with school and personal lif
 
 ### My Current List of TryHackMe Write-Ups of Challenge Boxes
 
+Watcher
+>https://www.notion.so/Watcher-d1b15b672cde416d871f572eb64df9cb
+
 Colddbox 
 >https://www.notion.so/Colddbox-a949d208d7cc4c2a8730237596d5bdc8
 
