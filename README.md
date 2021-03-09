@@ -11,6 +11,9 @@ I am continually adding to this list as I find time with school and personal lif
 
 ### My Current List of TryHackMe Write-Ups of Challenge Boxes
 
+Cyborg
+>https://www.notion.so/Cyborg-121e56a5cd114298b5f261fe19e8d682
+
 Watcher
 >https://www.notion.so/Watcher-d1b15b672cde416d871f572eb64df9cb
 
