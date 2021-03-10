@@ -11,6 +11,9 @@ I am continually adding to this list as I find time with school and personal lif
 
 ### My Current List of TryHackMe Write-Ups of Challenge Boxes
 
+Bolt
+>https://www.notion.so/Bolt-d98b6788803e41cf819c5b4d6db6e88a
+
 Year of the Rabbit
 >https://www.notion.so/Year-of-the-Rabbit-fb2e10f96ae64823883b98f9bf7842b8
 
