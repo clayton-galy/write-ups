@@ -11,6 +11,9 @@ I am continually adding to this list as I find time with school and personal lif
 
 ### My Current List of TryHackMe Write-Ups of Challenge Boxes
 
+Easy Peasy
+>https://www.notion.so/Easy-Peasy-d026009b835b4fcab6210cc8a093fd3d
+
 The Cod Caper
 >https://www.notion.so/The-Cod-Caper-90db3d6e645d4c27b9ffeb86cf10ba7d
 
