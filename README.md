@@ -9,7 +9,7 @@ I am continually adding to this list as I find time with school and personal lif
 ## My TryHackMe Profile
 >https://tryhackme.com/p/RatedPilot  
 
-### My Current List of TryHackMe Write-Ups of Challenge Boxes
+## My Current List of TryHackMe Write-Ups of Challenge Boxes
 
 UltraTech
 >https://www.notion.so/UltraTech-c1ca0b2f3b784a7db106a515d566b884
