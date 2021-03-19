@@ -11,6 +11,9 @@ I am continually adding to this list as I find time with school and personal lif
 
 ### My Current List of TryHackMe Write-Ups of Challenge Boxes
 
+UltraTech
+>https://www.notion.so/UltraTech-c1ca0b2f3b784a7db106a515d566b884
+
 Easy Peasy
 >https://www.notion.so/Easy-Peasy-d026009b835b4fcab6210cc8a093fd3d
 
