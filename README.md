@@ -11,6 +11,12 @@ I am continually adding to this list as I find time with school and personal lif
 
 ## My Current List of TryHackMe Write-Ups of Challenge Boxes
 
+All In One
+>https://www.notion.so/All-In-One-b7876540698049d6bd580c19e82f9b42
+
+Team
+>https://www.notion.so/Team-fb509e45c9994128b4172f760e3c85f8
+
 UltraTech
 >https://www.notion.so/UltraTech-c1ca0b2f3b784a7db106a515d566b884
 
