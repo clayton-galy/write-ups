@@ -11,6 +11,9 @@ I am continually adding to this list as I find time with school and personal lif
 
 ## My Current List of TryHackMe Write-Ups of Challenge Boxes
 
+Blog
+>https://www.notion.so/Blog-472790879bab44fe9440350d19c65a6a
+
 All In One
 >https://www.notion.so/All-In-One-b7876540698049d6bd580c19e82f9b42
 
