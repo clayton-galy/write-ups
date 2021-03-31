@@ -11,6 +11,9 @@ I am continually adding to this list as I find time with school and personal lif
 
 ## My Current List of TryHackMe Write-Ups of Challenge Boxes
 
+Smag Grotto
+>https://www.notion.so/Smag-Grotto-d91a395ae5d24953802ecd30c2ad75b9
+
 Gotta Catch'em All!
 >https://www.notion.so/Gotta-Catch-em-All-8a5ce411cb1449989f99e435ac3531ef
 
