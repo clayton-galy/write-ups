@@ -11,6 +11,9 @@ I am continually adding to this list as I find time with school and personal lif
 
 ## My Current List of TryHackMe Write-Ups of Challenge Boxes
 
+Jack-of-All-Trades
+>https://www.notion.so/Jack-of-All-Trades-43edbe6660244358b19cc37afea45113
+
 Smag Grotto
 >https://www.notion.so/Smag-Grotto-d91a395ae5d24953802ecd30c2ad75b9
 
