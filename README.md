@@ -11,6 +11,9 @@ I am continually adding to this list as I find time with school and personal lif
 
 ## My Current List of TryHackMe Write-Ups of Challenge Boxes
 
+CMesS
+>https://www.notion.so/Priv-Esc-d5dc4a2a5dff463683fa491250954afa
+
 Jack-of-All-Trades
 >https://www.notion.so/Jack-of-All-Trades-43edbe6660244358b19cc37afea45113
 
