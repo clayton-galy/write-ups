@@ -11,6 +11,9 @@ I am continually adding to this list as I find time with school and personal lif
 
 ## My Current List of TryHackMe Write-Ups of Challenge Boxes
 
+GLITCH
+>https://www.notion.so/GLITCH-e82f0b57c2f242e9afd7eeeee4e4413f
+
 Thompson
 >https://www.notion.so/Thompson-d039acbdf1df49d88a0ec1d29ec7c887
 
