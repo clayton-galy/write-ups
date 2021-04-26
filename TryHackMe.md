@@ -5,6 +5,9 @@
 
 ## My Current List of TryHackMe Write-Ups of Challenge Boxes
 
+The Server From Hell
+>https://www.notion.so/The-Server-From-Hell-0dcb99203c9444229ea8c04debf770c5
+
 Anonforce
 >https://www.notion.so/Anonforce-efdebe82f3284fbf896a9ddbc244850e
 
