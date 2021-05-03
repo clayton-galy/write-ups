@@ -5,6 +5,12 @@
 
 ## My Current List of TryHackMe Write-Ups of Challenge Boxes
 
+Willow
+>https://www.notion.so/Willow-b99ddb9468364e2fa041fb47f6ec5d85
+
+Library
+>https://www.notion.so/Library-fac14cb4007048d8ba79563b3f3deb05
+
 The Server From Hell
 >https://www.notion.so/The-Server-From-Hell-0dcb99203c9444229ea8c04debf770c5
 
