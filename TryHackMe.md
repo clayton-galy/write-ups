@@ -5,6 +5,9 @@
 
 ## My Current List of TryHackMe Write-Ups of Challenge Boxes
 
+Break Out The Cage
+>https://www.notion.so/Break-Out-The-Cage-ef712d9f2e734d278a391c2ed24e3428
+
 Blueprint
 >https://www.notion.so/Blueprint-a5f9d2bafaaf45959c7da5b17b4828af
 
