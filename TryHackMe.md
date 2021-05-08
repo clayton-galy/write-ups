@@ -5,6 +5,9 @@
 
 ## My Current List of TryHackMe Write-Ups of Challenge Boxes
 
+Blueprint
+>https://www.notion.so/Blueprint-a5f9d2bafaaf45959c7da5b17b4828af
+
 Willow
 >https://www.notion.so/Willow-b99ddb9468364e2fa041fb47f6ec5d85
 
