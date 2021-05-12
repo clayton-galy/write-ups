@@ -5,6 +5,9 @@
 
 ## My Current List of TryHackMe Write-Ups of Challenge Boxes
 
+Peak Hill
+>https://www.notion.so/Peak-Hill-0285e71d65ee4c87ad56d269f18af001
+
 Overpass 3 - Hosting
 >https://www.notion.so/Overpass-3-Hosting-619dc83bf0cc478c8f9dfda8bb598fb5
 
