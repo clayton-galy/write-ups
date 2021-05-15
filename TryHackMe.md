@@ -5,6 +5,9 @@
 
 ## My Current List of TryHackMe Write-Ups of Challenge Boxes
 
+Res
+>https://www.notion.so/Res-3d30135221014aa09dbfbcb1322f79e1
+
 Peak Hill
 >https://www.notion.so/Peak-Hill-0285e71d65ee4c87ad56d269f18af001
 
