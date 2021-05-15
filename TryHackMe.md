@@ -5,6 +5,9 @@
 
 ## My Current List of TryHackMe Write-Ups of Challenge Boxes
 
+Nax
+>https://www.notion.so/Nax-8ca0f2200d3d48fd8184f666089741af
+
 Res
 >https://www.notion.so/Res-3d30135221014aa09dbfbcb1322f79e1
 
