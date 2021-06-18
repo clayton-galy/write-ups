@@ -5,6 +5,9 @@
 
 ## My Current List of TryHackMe Write-Ups of Challenge Boxes
 
+JPGChat
+>https://www.notion.so/JPGChat-70fdb0f2f8344cc5a7dafebf9e75b49d
+
 Mindgames
 >https://www.notion.so/Mindgames-2424485120a545579377b774cd97887f
 
