@@ -5,6 +5,9 @@
 
 ## My Current List of TryHackMe Write-Ups of Challenge Boxes
 
+Mustacchio
+>https://www.notion.so/Mustacchio-db6808eaae9540d1998d279f407b953d
+
 JPGChat
 >https://www.notion.so/JPGChat-70fdb0f2f8344cc5a7dafebf9e75b49d
 
