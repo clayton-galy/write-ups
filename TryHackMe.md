@@ -5,6 +5,12 @@
 
 ## My Current List of TryHackMe Write-Ups of Challenge Boxes
 
+VulnNet: Internal
+>https://www.notion.so/VulnNet-Internal-30bd1ef9c5b44b91819825d223e52901
+
+VulnNet
+>https://www.notion.so/VulnNet-868a5dc96625459e89154092d840ba3e
+
 Mustacchio
 >https://www.notion.so/Mustacchio-db6808eaae9540d1998d279f407b953d
 
