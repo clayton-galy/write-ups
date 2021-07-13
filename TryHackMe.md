@@ -154,7 +154,7 @@
 [21]: https://www.notion.so/Jack-of-All-Trades-43edbe6660244358b19cc37afea45113
 [22]: https://www.notion.so/Smag-Grotto-d91a395ae5d24953802ecd30c2ad75b9
 [23]: https://www.notion.so/Gotta-Catch-em-All-8a5ce411cb1449989f99e435ac3531ef
-[25]: https://www.notion.so/Blog-472790879bab44fe9440350d19c65a6a
+[24]: https://www.notion.so/Blog-472790879bab44fe9440350d19c65a6a
 [25]: https://www.notion.so/All-In-One-b7876540698049d6bd580c19e82f9b42
 [26]: https://www.notion.so/Team-fb509e45c9994128b4172f760e3c85f8
 [27]: https://www.notion.so/UltraTech-c1ca0b2f3b784a7db106a515d566b884
