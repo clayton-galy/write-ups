@@ -5,6 +5,8 @@
 
 ## My Current List of TryHackMe Write-Ups of Challenge Boxes
 
+[VulnNet: Interal][1]
+
 VulnNet: Internal
 >https://www.notion.so/VulnNet-Internal-30bd1ef9c5b44b91819825d223e52901
 
@@ -193,3 +195,5 @@ Pickle Rick
 
 Mr Robot
 >https://www.notion.so/Mr-Robot-71d6b2b50b8d479eab77ed3823808622
+
+[1]: https://www.notion.so/VulnNet-Internal-30bd1ef9c5b44b91819825d223e52901
