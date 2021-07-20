@@ -5,6 +5,8 @@
 
 ## My Current List of TryHackMe Write-Ups of Challenge Boxes
 
+[Vulnnet: Roasted][65]
+
 [Cat Pictures][64]
 
 [VulnNet: Interal][1]
@@ -197,3 +199,4 @@
 [62]: https://www.notion.so/Pickle-Rick-f29b9bef139c4c89bb5ef95183e1f1ac
 [63]: https://www.notion.so/Mr-Robot-71d6b2b50b8d479eab77ed3823808622
 [64]: https://clayton-galy.notion.site/Cat-Pictures-d627527484904f14952e18059338359e
+[65]: https://clayton-galy.notion.site/VulnNet-Roasted-6042f02a9ef54296a70e8a65c084415a
