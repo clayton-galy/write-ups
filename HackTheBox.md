@@ -5,6 +5,8 @@
 
 ## Write-Ups
 
+[Heist][7]
+
 [Taverxec][6]
 
 [Bastion][5]
@@ -23,3 +25,4 @@
 [4]: https://clayton-galy.notion.site/Writeup-f44d63f3889b44c0ba5dbfb38da0ab74
 [5]: https://clayton-galy.notion.site/Bastion-0047ede3ced64ceeaf0c46b598c9be7f
 [6]: https://clayton-galy.notion.site/Traverxec-31cf21886af74b59aa4926fa759fcf01
+[7]: https://clayton-galy.notion.site/Heist-b4cd27cbe7d24c31ab8c94e212c7392d
