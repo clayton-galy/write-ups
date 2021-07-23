@@ -5,6 +5,8 @@
 
 ## Write-Ups
 
+[Forest](https://clayton-galy.notion.site/Forest-ac11e9af34c04596bf6cc2495c643b5f)
+
 [Heist](https://clayton-galy.notion.site/Heist-b4cd27cbe7d24c31ab8c94e212c7392d)
 
 [Taverxec](https://clayton-galy.notion.site/Traverxec-31cf21886af74b59aa4926fa759fcf01)
