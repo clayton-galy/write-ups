@@ -5,6 +5,8 @@
 
 ## My Current List of TryHackMe Write-Ups of Challenge Boxes
 
+[USTOUN](https://clayton-galy.notion.site/USTOUN-052da47a695340639506a2458d8c81b9)
+
 [Vulnnet: Roasted](https://clayton-galy.notion.site/VulnNet-Roasted-6042f02a9ef54296a70e8a65c084415a)
 
 [Cat Pictures](https://clayton-galy.notion.site/Cat-Pictures-d627527484904f14952e18059338359e)
