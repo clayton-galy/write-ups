@@ -5,6 +5,8 @@
 
 ## My Current List of TryHackMe Write-Ups of Challenge Boxes
 
+[Year of the Fox](https://clayton-galy.notion.site/Year-of-the-Fox-9172b0aa08ce492fb2fea74c31142e72)
+
 [USTOUN](https://clayton-galy.notion.site/USTOUN-052da47a695340639506a2458d8c81b9)
 
 [Vulnnet: Roasted](https://clayton-galy.notion.site/VulnNet-Roasted-6042f02a9ef54296a70e8a65c084415a)
