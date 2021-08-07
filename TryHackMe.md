@@ -5,6 +5,8 @@
 
 ## My Current List of TryHackMe Write-Ups of Challenge Boxes
 
+[Year of the Dog](https://clayton-galy.notion.site/Year-of-the-Dog-8e070fa00b2746c4a0ff89a1ec61492c)
+
 [Year of the Pig](https://clayton-galy.notion.site/Year-of-the-Pig-af13647b28e340a3a5042f9e480895ff)
 
 [Year of the Fox](https://clayton-galy.notion.site/Year-of-the-Fox-9172b0aa08ce492fb2fea74c31142e72)
