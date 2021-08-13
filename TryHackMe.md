@@ -5,6 +5,8 @@
 
 ## My Current List of TryHackMe Write-Ups of Challenge Boxes
 
+[Sustah](https://clayton-galy.notion.site/Sustah-b614ae12b80e40dc99b7027ae3b62fd9)
+
 [Wekor](https://clayton-galy.notion.site/Wekor-414de9ce169e40248966aabc424e0124)
 
 [Bookstore](https://clayton-galy.notion.site/Bookstore-5e27992a384941b3b90fad5816740da9)
