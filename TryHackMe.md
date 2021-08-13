@@ -5,6 +5,10 @@
 
 ## My Current List of TryHackMe Write-Ups of Challenge Boxes
 
+[Wekor](https://clayton-galy.notion.site/Wekor-414de9ce169e40248966aabc424e0124)
+
+[Bookstore](https://clayton-galy.notion.site/Bookstore-5e27992a384941b3b90fad5816740da9)
+
 [Magician](https://clayton-galy.notion.site/Magician-f3aecddf8ba14a80aad27c7b0d29c36f)
 
 [Year of the Owl](https://clayton-galy.notion.site/Year-of-the-Owl-a7a2538e614e49cb9fb83afcb0ece613)
