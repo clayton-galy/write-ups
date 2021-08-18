@@ -5,6 +5,8 @@
 
 ## My Current List of TryHackMe Write-Ups of Challenge Boxes
 
+[Madeye's Castle](https://clayton-galy.notion.site/Madeye-s-Castle-8249f8c41094452b8876bc3b3ae50386)
+
 [Sustah](https://clayton-galy.notion.site/Sustah-b614ae12b80e40dc99b7027ae3b62fd9)
 
 [Wekor](https://clayton-galy.notion.site/Wekor-414de9ce169e40248966aabc424e0124)
