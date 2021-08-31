@@ -5,6 +5,8 @@
 
 ## My Current List of TryHackMe Write-Ups of Challenge Boxes
 
+[SafeZone](https://clayton-galy.notion.site/SafeZone-UNFINISHED-5bfc6da092314a5ca9e3434517dd6a1d)
+
 [Rocket](https://clayton-galy.notion.site/Rocket-d90630713c16411ab8e96c921ed79fd1)
 
 [Madeye's Castle](https://clayton-galy.notion.site/Madeye-s-Castle-8249f8c41094452b8876bc3b3ae50386)
