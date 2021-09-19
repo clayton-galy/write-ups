@@ -5,6 +5,8 @@
 
 ## My Current List of TryHackMe Write-Ups of Challenge Boxes
 
+[Jeff](https://clayton-galy.notion.site/Jeff-55f1534659fd4a8e8946b71bc59f1892)
+
 [Haskhell](https://clayton-galy.notion.site/HaskHell-7252e2d432214e3d99bb98c303428ac1)
 
 [SafeZone](https://clayton-galy.notion.site/SafeZone-5bfc6da092314a5ca9e3434517dd6a1d)
