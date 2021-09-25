@@ -5,6 +5,8 @@
 
 ## My Current List of TryHackMe Write-Ups of Challenge Boxes
 
+[The Blob Blog](https://clayton-galy.notion.site/The-Blob-Blog-2c37d6312c674de1b3fbbb34f10ff60d)
+
 [En-Pass](https://clayton-galy.notion.site/En-Pass-1ce209aaea454e79937878ab639bae54)
 
 [Jeff](https://clayton-galy.notion.site/Jeff-55f1534659fd4a8e8946b71bc59f1892)
