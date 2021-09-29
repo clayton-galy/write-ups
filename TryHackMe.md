@@ -5,6 +5,8 @@
 
 ## My Current List of TryHackMe Write-Ups of Challenge Boxes
 
+[Metamorphosis](https://clayton-galy.notion.site/Metamorphosis-c1e515e2c64d461587e79927292a66d6)
+
 [VulnNet: Node](https://clayton-galy.notion.site/VulnNet-Node-6522214a41834830bbb4738c6e2aaa27)
 
 [The Blob Blog](https://clayton-galy.notion.site/The-Blob-Blog-2c37d6312c674de1b3fbbb34f10ff60d)
