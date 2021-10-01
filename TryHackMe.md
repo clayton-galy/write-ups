@@ -5,6 +5,8 @@
 
 ## My Current List of TryHackMe Write-Ups of Challenge Boxes
 
+[Jacob The Boss](https://clayton-galy.notion.site/Jacob-The-Boss-7bc3efa914714e589f15babb250d8402)
+
 [Metamorphosis](https://clayton-galy.notion.site/Metamorphosis-c1e515e2c64d461587e79927292a66d6)
 
 [VulnNet: Node](https://clayton-galy.notion.site/VulnNet-Node-6522214a41834830bbb4738c6e2aaa27)
