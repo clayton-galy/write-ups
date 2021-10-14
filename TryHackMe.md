@@ -5,6 +5,8 @@
 
 ## My Current List of TryHackMe Write-Ups of Challenge Boxes
 
+[Inferno](https://clayton-galy.notion.site/Inferno-dab4c464a5d94fc88cae0df38851315d)
+
 [Lockdown](https://clayton-galy.notion.site/Lockdown-6341df4c35f5458abb9ea80cabebb672)
 
 [Jacob The Boss](https://clayton-galy.notion.site/Jacob-The-Boss-7bc3efa914714e589f15babb250d8402)
