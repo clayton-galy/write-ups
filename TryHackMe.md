@@ -5,6 +5,8 @@
 
 ## My Current List of TryHackMe Write-Ups of Challenge Boxes
 
+[Battery](https://clayton-galy.notion.site/Battery-f28673d7f5074dacac37208287838f04)
+
 [Inferno](https://clayton-galy.notion.site/Inferno-dab4c464a5d94fc88cae0df38851315d)
 
 [Lockdown](https://clayton-galy.notion.site/Lockdown-6341df4c35f5458abb9ea80cabebb672)
