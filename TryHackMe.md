@@ -5,6 +5,8 @@
 
 ## My Current List of TryHackMe Write-Ups of Challenge Boxes
 
+[Git and Crumpets](https://clayton-galy.notion.site/Git-and-Crumpets-a1ddf7a6ccec466eabd69ced3ec647a3)
+
 [Harder](https://clayton-galy.notion.site/Harder-132c7525d98344c490dd4772823ef4d7)
 
 [Battery](https://clayton-galy.notion.site/Battery-f28673d7f5074dacac37208287838f04)
