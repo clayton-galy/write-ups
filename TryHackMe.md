@@ -5,6 +5,8 @@
 
 ## My Current List of TryHackMe Write-Ups of Challenge Boxes
 
+[The Great Escape](https://clayton-galy.notion.site/The-Great-Escape-df6c47dc27d24ec2b6bd1da49f792db1)
+
 [Git and Crumpets](https://clayton-galy.notion.site/Git-and-Crumpets-a1ddf7a6ccec466eabd69ced3ec647a3)
 
 [Harder](https://clayton-galy.notion.site/Harder-132c7525d98344c490dd4772823ef4d7)
