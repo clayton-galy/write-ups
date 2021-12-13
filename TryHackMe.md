@@ -5,6 +5,8 @@
 
 ## My Current List of TryHackMe Write-Ups of Challenge Boxes
 
+[Minotaur's Labyrinth](https://clayton-galy.notion.site/Minotaur-s-Labyrinth-1cb2aab2c6a3496f99dcd6337aac13e6)
+
 [The Great Escape](https://clayton-galy.notion.site/The-Great-Escape-df6c47dc27d24ec2b6bd1da49f792db1)
 
 [Git and Crumpets](https://clayton-galy.notion.site/Git-and-Crumpets-a1ddf7a6ccec466eabd69ced3ec647a3)
