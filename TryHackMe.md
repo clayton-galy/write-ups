@@ -5,6 +5,8 @@
 
 ## My Current List of TryHackMe Write-Ups of Challenge Boxes
 
+[Empline](https://clayton-galy.notion.site/Empline-3a70e20f4e0a489eaa58dac7f5aa178e)
+
 [Road](https://clayton-galy.notion.site/Road-adccc9f31d0d4d75bd37316a9260889c)
 
 [Minotaur's Labyrinth](https://clayton-galy.notion.site/Minotaur-s-Labyrinth-1cb2aab2c6a3496f99dcd6337aac13e6)
