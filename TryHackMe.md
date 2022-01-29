@@ -5,6 +5,12 @@
 
 ## My Current List of TryHackMe Write-Ups of Challenge Boxes
 
+[Keldagrim](https://clayton-galy.notion.site/Keldagrim-e3c46439b9c84a5aa4a1c936802ae369)
+
+[Zeno](https://clayton-galy.notion.site/Zeno-df5556168e0e4dc983fb8a51b80a88e3)
+
+[IDE](https://clayton-galy.notion.site/IDE-97342a3b600f4ef4abc6a88537946dc3)
+
 [Empline](https://clayton-galy.notion.site/Empline-3a70e20f4e0a489eaa58dac7f5aa178e)
 
 [Road](https://clayton-galy.notion.site/Road-adccc9f31d0d4d75bd37316a9260889c)
