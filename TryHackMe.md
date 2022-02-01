@@ -191,7 +191,7 @@
 
 [Lazy Admin](https://www.notion.so/Lazy-Admin-4b3607f15461493bbd2bff82354f68bb)
 
-[Bounty Hunter](https://www.notion.so/Bounty-Hunter-682275d3f5674d6dac796c611a1a7a9e)
+[Bounty Hunter](https://clayton-galy.notion.site/Bounty-Hacker-682275d3f5674d6dac796c611a1a7a9e)
 
 [Pickle Rick](https://www.notion.so/Pickle-Rick-f29b9bef139c4c89bb5ef95183e1f1ac)
 
