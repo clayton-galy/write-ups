@@ -5,6 +5,8 @@
 
 ## My Current List of TryHackMe Write-Ups of Challenge Boxes
 
+[NerdHerd](https://clayton-galy.notion.site/NerdHerd-f4d0d749e53f486ca269e5e11870e4ca)
+
 [Keldagrim](https://clayton-galy.notion.site/Keldagrim-e3c46439b9c84a5aa4a1c936802ae369)
 
 [Zeno](https://clayton-galy.notion.site/Zeno-df5556168e0e4dc983fb8a51b80a88e3)
