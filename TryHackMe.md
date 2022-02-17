@@ -5,6 +5,8 @@
 
 ## My Current List of TryHackMe Write-Ups of Challenge Boxes
 
+[Gallery](https://clayton-galy.notion.site/Gallery-352d47177397434facacea649c62c501)
+
 [Jason](https://clayton-galy.notion.site/Jason-6067d519ef7e40da82f71b2016ec56e5)
 
 [VulnNet: Active](https://clayton-galy.notion.site/VulnNet-Active-89189675ab084addae4406dd0c7e3232)
