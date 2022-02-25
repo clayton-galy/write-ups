@@ -5,6 +5,8 @@
 
 ## My Current List of TryHackMe Write-Ups of Challenge Boxes
 
+[VulnNet: dotjar](https://clayton-galy.notion.site/VulnNet-dotjar-eb636ab8cae44672a5e815bfaae7f7e2)
+
 [VulnNet: dotpy](https://clayton-galy.notion.site/VulnNet-dotpy-9a3661a6e39442c186d92dda33ae7102)
 
 [Gallery](https://clayton-galy.notion.site/Gallery-352d47177397434facacea649c62c501)
