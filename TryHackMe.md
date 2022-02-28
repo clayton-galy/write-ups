@@ -5,6 +5,8 @@
 
 ## My Current List of TryHackMe Write-Ups of Challenge Boxes
 
+[Plotted-TMS](https://clayton-galy.notion.site/Plotted-TDM-24d41b6be68b45469de11a77eaa1ee7e)
+
 [Flatline](https://clayton-galy.notion.site/Flatline-8cff0f868d6c4dec94f36afcf917f6a7)
 
 [VulnNet: dotjar](https://clayton-galy.notion.site/VulnNet-dotjar-eb636ab8cae44672a5e815bfaae7f7e2)
