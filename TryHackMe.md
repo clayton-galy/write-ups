@@ -5,6 +5,8 @@
 
 ## My Current List of TryHackMe Write-Ups of Challenge Boxes
 
+[Oh My WebServer](https://clayton-galy.notion.site/Oh-My-WebServer-de2343ab033442de8a71dd3de459248b)
+
 [RazorBlack](https://clayton-galy.notion.site/RazorBlack-fcce6c7c9e0c4181bbd5f72dc0ec77cc)
 
 [Plotted-TMS](https://clayton-galy.notion.site/Plotted-TDM-24d41b6be68b45469de11a77eaa1ee7e)
