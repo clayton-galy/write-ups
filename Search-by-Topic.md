@@ -49,7 +49,7 @@
     - [Docker](#docker)
 
   - Windows
-    - [Windows](#windows)
+    - [Windows Machines](#windows)
     - [Active Directory](#active-directory)
     - [Bloodhound Enumeration](#bloodhound-enumeration)
     - [Secrets Dump](#secrets-dump)
