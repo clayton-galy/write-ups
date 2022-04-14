@@ -38,6 +38,7 @@
     - [Shell Escape](#shell-escape)
     - [Pivoting - Port Forwards](#pivoting---port-forwards)
     - [File Capabilities Abuse](#file-capabilities-abuse)
+    - [Writable Service Abuse](#writable-service-abuse)
     - [SeImpersonatePrivilege](#seimpersonateprivilege)
     - [PGP Encryption](#pgp-encryption)
     - [Path Abuse](#path-abuse)
@@ -622,6 +623,12 @@
 [Oh My WebServer (Python)](https://clayton-galy.notion.site/Oh-My-WebServer-de2343ab033442de8a71dd3de459248b)
 
 [Empire: Breakout (Tar)](https://clayton-galy.notion.site/Empire-Breakout-686f30ab1ee04a0dae4209ffbc0884dd)
+
+
+## Writable Service Abuse
+[VulnNet: Node](https://clayton-galy.notion.site/VulnNet-Node-6522214a41834830bbb4738c6e2aaa27)
+
+[Revenge](https://clayton-galy.notion.site/Revenge-92556f8c324b43bfa1b8e54348a29a03)
 
 
 ## SeImpersonatePrivilege
