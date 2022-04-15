@@ -164,9 +164,9 @@
 
 
 ## Server Side Template Injection
-[Keldagrim](https://clayton-galy.notion.site/Keldagrim-e3c46439b9c84a5aa4a1c936802ae369)
+[Keldagrim (Jinja2)](https://clayton-galy.notion.site/Keldagrim-e3c46439b9c84a5aa4a1c936802ae369)
 
-[VulnNet: dotpy](https://clayton-galy.notion.site/VulnNet-dotpy-9a3661a6e39442c186d92dda33ae7102)
+[VulnNet: dotpy (Jinja2)](https://clayton-galy.notion.site/VulnNet-dotpy-9a3661a6e39442c186d92dda33ae7102)
 
 
 ## Information Disclosure
