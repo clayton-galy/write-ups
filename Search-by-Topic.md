@@ -18,7 +18,7 @@
     - [Apache Tomcat](#apache-tomcat)
     - [WordPress](#wordpress)
     - [Git Dump](#git-dump)
-    - [Tab Nabbing](#tab-nabbing)
+    - [Tabnabbing](#tabnabbing)
   
   - Network Stuffs
     - [PCAP Analysis](#pcap-analysis)
@@ -319,7 +319,7 @@
 [Harder](https://clayton-galy.notion.site/Harder-132c7525d98344c490dd4772823ef4d7)
 
 
-## Tab Nabbing
+## Tabnabbing
 [Napping: 1.0.1](https://clayton-galy.notion.site/Napping-1-0-1-29bcdace684e462fb25f4a6ed37faf6d)
 
 
