@@ -5,6 +5,8 @@
 
 ## My Current List of TryHackMe Write-Ups of Challenge Boxes
 
+[Tech Supp0rt: 1](https://clayton-galy.notion.site/Tech_Supp0rt-1-a86e34ab2ac54ead936efa52882d026e)
+
 [Revenge](https://clayton-galy.notion.site/Revenge-92556f8c324b43bfa1b8e54348a29a03)
 
 [Debug](https://clayton-galy.notion.site/Debug-324da9267f064fa3a3f6f85b44ddd5a9)
