@@ -358,6 +358,8 @@
 
 [Empire: Breakout (Tar)](https://clayton-galy.notion.site/Empire-Breakout-686f30ab1ee04a0dae4209ffbc0884dd)
 
+[Tech Supp0rt: 1](https://clayton-galy.notion.site/Tech_Supp0rt-1-a86e34ab2ac54ead936efa52882d026e)
+
 
 ## PCAP Analysis
 [Spice Hut](https://www.notion.so/Spice-Hut-0d150710f7bf4b129a280fb785b09ca3)
@@ -579,6 +581,8 @@
 [Traverxec (Journalctl)](https://clayton-galy.notion.site/Traverxec-31cf21886af74b59aa4926fa759fcf01)
 
 [Napping: 1.0.1 (Vim)](https://clayton-galy.notion.site/Napping-1-0-1-29bcdace684e462fb25f4a6ed37faf6d)
+
+[Tech Supp0rt: 1 (iconv)](https://clayton-galy.notion.site/Tech_Supp0rt-1-a86e34ab2ac54ead936efa52882d026e)
 
 
 ## Shell Escape
