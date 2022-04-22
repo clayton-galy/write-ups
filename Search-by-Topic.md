@@ -98,6 +98,8 @@
 
 [OpenAdmin](https://clayton-galy.notion.site/OpenAdmin-9bd3b4661ae6426bb6a6a4194a08faa2)
 
+[Misguided Ghosts](https://clayton-galy.notion.site/Misguided-Ghosts-b0c1192d602444dfa53bf7df67769bcb)
+
 
 ## Local File Inclusion
 [Dogcat](https://www.notion.so/Dogcat-6817cd10798b47b5975f8397618423de)
@@ -199,6 +201,8 @@
 
 ## Cross-Site Scripting
 [The Marketplace](https://www.notion.so/The-Marketplace-5d12f389aafe456e92d65cdcd6e69165)
+
+[Misguided Ghosts](https://clayton-galy.notion.site/Misguided-Ghosts-b0c1192d602444dfa53bf7df67769bcb)
 
 
 ## Account Takeover
@@ -360,11 +364,15 @@
 
 [Tech Supp0rt: 1](https://clayton-galy.notion.site/Tech_Supp0rt-1-a86e34ab2ac54ead936efa52882d026e)
 
+[Misguided Ghosts](https://clayton-galy.notion.site/Misguided-Ghosts-b0c1192d602444dfa53bf7df67769bcb)
+
 
 ## PCAP Analysis
 [Spice Hut](https://www.notion.so/Spice-Hut-0d150710f7bf4b129a280fb785b09ca3)
 
 [Smag Grotto](https://www.notion.so/Smag-Grotto-d91a395ae5d24953802ecd30c2ad75b9)
+
+[Misguided Ghosts](https://clayton-galy.notion.site/Misguided-Ghosts-b0c1192d602444dfa53bf7df67769bcb)
 
 
 ## Rsync Abuse
@@ -441,6 +449,8 @@
 [Bastion](https://clayton-galy.notion.site/Bastion-0047ede3ced64ceeaf0c46b598c9be7f)
 
 [Heist](https://clayton-galy.notion.site/Heist-b4cd27cbe7d24c31ab8c94e212c7392d)
+
+[Misguided Ghosts (SSH)](https://clayton-galy.notion.site/Misguided-Ghosts-b0c1192d602444dfa53bf7df67769bcb)
 
 
 ## Buffer Overflow
@@ -621,6 +631,8 @@
 [Office](https://www.notion.so/Office-d40709bf409f4c368513c369fefc9b0e)
 
 [OpenAdmin](https://clayton-galy.notion.site/OpenAdmin-9bd3b4661ae6426bb6a6a4194a08faa2)
+
+[Misguided Ghosts](https://clayton-galy.notion.site/Misguided-Ghosts-b0c1192d602444dfa53bf7df67769bcb)
 
 
 ## File Capabilities Abuse
