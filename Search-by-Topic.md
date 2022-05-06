@@ -17,6 +17,7 @@
     - [Subdomain Enumeration](#subdomain-enumeration)
     - [Apache Tomcat](#apache-tomcat)
     - [WordPress](#wordpress)
+    - [Moodle](#moodle)
     - [Git Dump](#git-dump)
     - [Tabnabbing](#tabnabbing)
   
@@ -313,6 +314,10 @@
 [Jeff](https://clayton-galy.notion.site/Jeff-55f1534659fd4a8e8946b71bc59f1892)
 
 [Office](https://www.notion.so/Office-d40709bf409f4c368513c369fefc9b0e)
+
+
+## Moodle
+[Plotted-LMS](https://clayton-galy.notion.site/Plotted-LMS-e66317af74aa4f30808f308a848c8ef3)
 
 
 ## 403 Forbidden Bypass
@@ -741,6 +746,8 @@
 [Empire: Breakout (Tar)](https://clayton-galy.notion.site/Empire-Breakout-686f30ab1ee04a0dae4209ffbc0884dd)
 
 [Napping: 1.0.1](https://clayton-galy.notion.site/Napping-1-0-1-29bcdace684e462fb25f4a6ed37faf6d)
+
+[Plotted-LMS](https://clayton-galy.notion.site/Plotted-LMS-e66317af74aa4f30808f308a848c8ef3)
 
 
 ## Wildcard Exploitation
