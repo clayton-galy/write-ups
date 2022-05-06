@@ -5,6 +5,8 @@
 
 ## My Current List of TryHackMe Write-Ups of Challenge Boxes
 
+[Plotted-LMS](https://clayton-galy.notion.site/Plotted-LMS-e66317af74aa4f30808f308a848c8ef3)
+
 [Misguided Ghosts](https://clayton-galy.notion.site/Misguided-Ghosts-b0c1192d602444dfa53bf7df67769bcb)
 
 [Tech Supp0rt: 1](https://clayton-galy.notion.site/Tech_Supp0rt-1-a86e34ab2ac54ead936efa52882d026e)
