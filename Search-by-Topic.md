@@ -193,6 +193,8 @@
 
 [JPGChat](https://www.notion.so/JPGChat-70fdb0f2f8344cc5a7dafebf9e75b49d)
 
+[Plotted-EMR](https://clayton-galy.notion.site/Plotted-EMR-bd5ccb9b3f564bccb872983ebcb274d9)
+
 
 ## XML External Entity Vulnerability
 [Mustacchio](https://www.notion.so/Mustacchio-db6808eaae9540d1998d279f407b953d)
@@ -278,6 +280,8 @@
 [Writeup](https://clayton-galy.notion.site/Writeup-f44d63f3889b44c0ba5dbfb38da0ab74)
 
 [Traverxec](https://clayton-galy.notion.site/Traverxec-31cf21886af74b59aa4926fa759fcf01)
+
+[Plotted-EMR](https://clayton-galy.notion.site/Plotted-EMR-bd5ccb9b3f564bccb872983ebcb274d9)
 
 
 ## Subdomain Enumeration
@@ -655,6 +659,8 @@
 
 [Empire: Breakout (Tar)](https://clayton-galy.notion.site/Empire-Breakout-686f30ab1ee04a0dae4209ffbc0884dd)
 
+[Plotted-EMR (Perl)](https://clayton-galy.notion.site/Plotted-EMR-bd5ccb9b3f564bccb872983ebcb274d9)
+
 
 ## Writable Service Abuse
 [VulnNet: Node](https://clayton-galy.notion.site/VulnNet-Node-6522214a41834830bbb4738c6e2aaa27)
@@ -749,6 +755,8 @@
 
 [Plotted-LMS](https://clayton-galy.notion.site/Plotted-LMS-e66317af74aa4f30808f308a848c8ef3)
 
+[Plotted-EMR](https://clayton-galy.notion.site/Plotted-EMR-bd5ccb9b3f564bccb872983ebcb274d9)
+
 
 ## Wildcard Exploitation
 [The Marketplace](https://www.notion.so/The-Marketplace-5d12f389aafe456e92d65cdcd6e69165)
@@ -758,6 +766,8 @@
 [VulnNet](https://www.notion.so/VulnNet-868a5dc96625459e89154092d840ba3e)
 
 [Jeff](https://clayton-galy.notion.site/Jeff-55f1534659fd4a8e8946b71bc59f1892)
+
+[Plotted-EMR](https://clayton-galy.notion.site/Plotted-EMR-bd5ccb9b3f564bccb872983ebcb274d9)
 
 
 ## LXD Abuse
