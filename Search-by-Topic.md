@@ -225,6 +225,8 @@
 
 [Debug (PHP)](https://clayton-galy.notion.site/Debug-324da9267f064fa3a3f6f85b44ddd5a9)
 
+[Unbaked Pie (Python)](https://clayton-galy.notion.site/Unbaked-Pie-4dcef8a5da9d43f1b0757582d831372d)
+
 
 ## CVE - Public Exploit
 [Ignite](https://www.notion.so/Ignite-c9a644653e864dd687069482f73503da)
@@ -461,6 +463,8 @@
 
 [Misguided Ghosts (SSH)](https://clayton-galy.notion.site/Misguided-Ghosts-b0c1192d602444dfa53bf7df67769bcb)
 
+[Unbaked Pie (SSH)](https://clayton-galy.notion.site/Unbaked-Pie-4dcef8a5da9d43f1b0757582d831372d)
+
 
 ## Buffer Overflow
 [Brainstorm](https://www.notion.so/Brainstorm-317a110a3cf04759bae0fbac474bd72f)
@@ -643,6 +647,8 @@
 
 [Misguided Ghosts](https://clayton-galy.notion.site/Misguided-Ghosts-b0c1192d602444dfa53bf7df67769bcb)
 
+[Unbaked Pie](https://clayton-galy.notion.site/Unbaked-Pie-4dcef8a5da9d43f1b0757582d831372d)
+
 
 ## File Capabilities Abuse
 [Kiba (Python3)](https://www.notion.so/Kiba-34ebde359ea749b0b0a0cf658f9c2e0f)
@@ -710,6 +716,8 @@
 [JPGChat](https://www.notion.so/JPGChat-70fdb0f2f8344cc5a7dafebf9e75b49d)
 
 [VulnNet: dotpy](https://clayton-galy.notion.site/VulnNet-dotpy-9a3661a6e39442c186d92dda33ae7102)
+
+[Unbaked Pie](https://clayton-galy.notion.site/Unbaked-Pie-4dcef8a5da9d43f1b0757582d831372d)
 
 
 ## Cronjob - Scheduled Task Abuse
@@ -798,6 +806,8 @@
 [Year of the Dog](https://clayton-galy.notion.site/Year-of-the-Dog-8e070fa00b2746c4a0ff89a1ec61492c)
 
 [The Great Escape](https://clayton-galy.notion.site/The-Great-Escape-df6c47dc27d24ec2b6bd1da49f792db1)
+
+[Unbaked Pie](https://clayton-galy.notion.site/Unbaked-Pie-4dcef8a5da9d43f1b0757582d831372d)
 
 
 ## Windows
