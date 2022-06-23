@@ -5,6 +5,8 @@
 
 ## My Current List of TryHackMe Write-Ups of Challenge Boxes
 
+[Unbaked Pie](https://clayton-galy.notion.site/Unbaked-Pie-4dcef8a5da9d43f1b0757582d831372d)
+
 [Plotted-EMR](https://clayton-galy.notion.site/Plotted-EMR-bd5ccb9b3f564bccb872983ebcb274d9)
 
 [Plotted-LMS](https://clayton-galy.notion.site/Plotted-LMS-e66317af74aa4f30808f308a848c8ef3)
