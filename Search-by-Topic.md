@@ -1,6 +1,9 @@
 # Index - Search by Topic
 
 # Contents
+  - Personal Favorites
+    - [Favorites](#personal-favorites)
+    
   - Web Stuffs
     - [Command Injection](#command-injection)
     - [Local File Inclusion](#local-file-inclusion)
@@ -59,6 +62,22 @@
     - [ASREPRoasting - Kerberoasting](#asreproasting---kerberoasting)
 
 # Index by Topic
+
+## Personal Favorites
+[Rocket](https://clayton-galy.notion.site/Rocket-d90630713c16411ab8e96c921ed79fd1)
+
+[Misguided Ghosts](https://clayton-galy.notion.site/Misguided-Ghosts-b0c1192d602444dfa53bf7df67769bcb)
+
+[VulnNet: Interal](https://www.notion.so/VulnNet-Internal-30bd1ef9c5b44b91819825d223e52901)
+
+[VulnNet: Active](https://clayton-galy.notion.site/VulnNet-Active-89189675ab084addae4406dd0c7e3232)
+
+[Year of the Dog](https://clayton-galy.notion.site/Year-of-the-Dog-8e070fa00b2746c4a0ff89a1ec61492c)
+
+[RazorBlack](https://clayton-galy.notion.site/RazorBlack-fcce6c7c9e0c4181bbd5f72dc0ec77cc)
+
+[The Blob Blog](https://clayton-galy.notion.site/The-Blob-Blog-2c37d6312c674de1b3fbbb34f10ff60d)
+
 
 ## Command Injection
 [Boiler CTF](https://www.notion.so/Boiler-CTF-f21d88b917e241a7b1055c5ff57d22c6)
