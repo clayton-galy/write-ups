@@ -64,6 +64,8 @@
 # Index by Topic
 
 ## Personal Favorites
+[Spring](https://clayton-galy.notion.site/Spring-8fcb00ebd028479c82ef2e71f8cdbcd1)
+
 [Rocket](https://clayton-galy.notion.site/Rocket-d90630713c16411ab8e96c921ed79fd1)
 
 [Misguided Ghosts](https://clayton-galy.notion.site/Misguided-Ghosts-b0c1192d602444dfa53bf7df67769bcb)
@@ -119,6 +121,8 @@
 [OpenAdmin](https://clayton-galy.notion.site/OpenAdmin-9bd3b4661ae6426bb6a6a4194a08faa2)
 
 [Misguided Ghosts](https://clayton-galy.notion.site/Misguided-Ghosts-b0c1192d602444dfa53bf7df67769bcb)
+
+[Spring](https://clayton-galy.notion.site/Spring-8fcb00ebd028479c82ef2e71f8cdbcd1)
 
 
 ## Local File Inclusion
@@ -352,6 +356,8 @@
 ## Git Dump
 [Harder](https://clayton-galy.notion.site/Harder-132c7525d98344c490dd4772823ef4d7)
 
+[Spring](https://clayton-galy.notion.site/Spring-8fcb00ebd028479c82ef2e71f8cdbcd1)
+
 
 ## Tabnabbing
 [Napping: 1.0.1](https://clayton-galy.notion.site/Napping-1-0-1-29bcdace684e462fb25f4a6ed37faf6d)
@@ -483,6 +489,8 @@
 [Misguided Ghosts (SSH)](https://clayton-galy.notion.site/Misguided-Ghosts-b0c1192d602444dfa53bf7df67769bcb)
 
 [Unbaked Pie (SSH)](https://clayton-galy.notion.site/Unbaked-Pie-4dcef8a5da9d43f1b0757582d831372d)
+
+[Spring (su)](https://clayton-galy.notion.site/Spring-8fcb00ebd028479c82ef2e71f8cdbcd1)
 
 
 ## Buffer Overflow
