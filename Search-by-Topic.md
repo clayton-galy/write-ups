@@ -124,6 +124,8 @@
 
 [Spring](https://clayton-galy.notion.site/Spring-8fcb00ebd028479c82ef2e71f8cdbcd1)
 
+[Develpy](https://clayton-galy.notion.site/Develpy-39f1864520f144c9b7afd659c07799d5)
+
 
 ## Local File Inclusion
 [Dogcat](https://www.notion.so/Dogcat-6817cd10798b47b5975f8397618423de)
@@ -402,6 +404,8 @@
 
 [Misguided Ghosts](https://clayton-galy.notion.site/Misguided-Ghosts-b0c1192d602444dfa53bf7df67769bcb)
 
+[Develpy](https://clayton-galy.notion.site/Develpy-39f1864520f144c9b7afd659c07799d5)
+
 
 ## PCAP Analysis
 [Spice Hut](https://www.notion.so/Spice-Hut-0d150710f7bf4b129a280fb785b09ca3)
@@ -676,6 +680,8 @@
 
 [Unbaked Pie](https://clayton-galy.notion.site/Unbaked-Pie-4dcef8a5da9d43f1b0757582d831372d)
 
+[Develpy](https://clayton-galy.notion.site/Develpy-39f1864520f144c9b7afd659c07799d5)
+
 
 ## File Capabilities Abuse
 [Kiba (Python3)](https://www.notion.so/Kiba-34ebde359ea749b0b0a0cf658f9c2e0f)
@@ -791,6 +797,8 @@
 [Plotted-LMS](https://clayton-galy.notion.site/Plotted-LMS-e66317af74aa4f30808f308a848c8ef3)
 
 [Plotted-EMR](https://clayton-galy.notion.site/Plotted-EMR-bd5ccb9b3f564bccb872983ebcb274d9)
+
+[Develpy](https://clayton-galy.notion.site/Develpy-39f1864520f144c9b7afd659c07799d5)
 
 
 ## Wildcard Exploitation
