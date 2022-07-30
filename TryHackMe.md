@@ -5,6 +5,8 @@
 
 ## My Current List of TryHackMe Write-Ups of Challenge Boxes
 
+[Develpy](https://clayton-galy.notion.site/Develpy-39f1864520f144c9b7afd659c07799d5)
+
 [Spring](https://clayton-galy.notion.site/Spring-8fcb00ebd028479c82ef2e71f8cdbcd1)
 
 [Unbaked Pie](https://clayton-galy.notion.site/Unbaked-Pie-4dcef8a5da9d43f1b0757582d831372d)
