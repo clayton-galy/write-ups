@@ -310,6 +310,8 @@
 
 [Plotted-EMR](https://clayton-galy.notion.site/Plotted-EMR-bd5ccb9b3f564bccb872983ebcb274d9)
 
+[Undiscovered](https://clayton-galy.notion.site/Undiscovered-d86be1a81e224e649b0e372f68dad214)
+
 
 ## Subdomain Enumeration
 [CMesS](https://www.notion.so/CMesS-a00abac4a3a14a479048233f7e43a9b6)
@@ -317,6 +319,8 @@
 [VulnNet](https://www.notion.so/VulnNet-868a5dc96625459e89154092d840ba3e)
 
 [Rocket](https://clayton-galy.notion.site/Rocket-d90630713c16411ab8e96c921ed79fd1)
+
+[Undiscovered](https://clayton-galy.notion.site/Undiscovered-d86be1a81e224e649b0e372f68dad214)
 
 
 ## Apache Tomcat
@@ -496,6 +500,8 @@
 
 [Spring (su)](https://clayton-galy.notion.site/Spring-8fcb00ebd028479c82ef2e71f8cdbcd1)
 
+[Undiscovered](https://clayton-galy.notion.site/Undiscovered-d86be1a81e224e649b0e372f68dad214)
+
 
 ## Buffer Overflow
 [Brainstorm](https://www.notion.so/Brainstorm-317a110a3cf04759bae0fbac474bd72f)
@@ -539,6 +545,8 @@
 [The Blob Blog (Custom)](https://clayton-galy.notion.site/The-Blob-Blog-2c37d6312c674de1b3fbbb34f10ff60d)
 
 [Jacob The Boss (PingSys)](https://clayton-galy.notion.site/Jacob-The-Boss-7bc3efa914714e589f15babb250d8402)
+
+[Undiscovered (Custom)](https://clayton-galy.notion.site/Undiscovered-d86be1a81e224e649b0e372f68dad214)
 
 
 ## Sudo Abuse
@@ -699,6 +707,8 @@
 [Empire: Breakout (Tar)](https://clayton-galy.notion.site/Empire-Breakout-686f30ab1ee04a0dae4209ffbc0884dd)
 
 [Plotted-EMR (Perl)](https://clayton-galy.notion.site/Plotted-EMR-bd5ccb9b3f564bccb872983ebcb274d9)
+
+[Undiscovered (Vim)](https://clayton-galy.notion.site/Undiscovered-d86be1a81e224e649b0e372f68dad214)
 
 
 ## Writable Service Abuse
