@@ -57,7 +57,7 @@
     - [Docker](#docker)
 
   - Windows
-    - [Windows Machines](#windows)
+    - [Windows Machines](#windows-machines)
     - [Active Directory](#active-directory)
     - [Bloodhound Enumeration](#bloodhound-enumeration)
     - [Secrets Dump](#secrets-dump)
@@ -877,7 +877,7 @@
 [Unbaked Pie](https://clayton-galy.notion.site/Unbaked-Pie-4dcef8a5da9d43f1b0757582d831372d)
 
 
-## Windows
+## Windows Machines
 [Anthem](https://www.notion.so/Anthem-abcbbaf36017410195740b023cb39689)
 
 [Blueprint](https://www.notion.so/Blueprint-a5f9d2bafaaf45959c7da5b17b4828af)
