@@ -9,6 +9,7 @@
     - [Local File Inclusion](#local-file-inclusion)
     - [SQL Injection](#sql-injection)
     - [Upload Vulnerability](#upload-vulnerability)
+    - [Server Side Request Forgery](#server-side-request-forgery)
     - [Server Side Template Injection](#server-side-template-injection)
     - [Information Disclosure](#information-disclosure)
     - [XML External Entity Vulnerability](#xml-external-entity-vulnerability)
@@ -50,6 +51,7 @@
     - [Python Library Hijack](#python-library-hijack)
     - [Cronjob - Scheduled Task Abuse](#cronjob---scheduled-task-abuse)
     - [Wildcard Exploitation](#wildcard-exploitation)
+    - [Sudo Token Abuse](#sudo-token-abuse)
     - [LXD Abuse](#lxd-abuse)
     - [Firefox Credential Dump](#firefox-credential-dump)
     - [Docker](#docker)
@@ -65,6 +67,8 @@
 
 ## Personal Favorites
 [Spring](https://clayton-galy.notion.site/Spring-8fcb00ebd028479c82ef2e71f8cdbcd1)
+
+[Sea Surfer](https://clayton-galy.notion.site/Sea-Surfer-0ac85e78556f4fb2bb51ed79414f7ecf)
 
 [Rocket](https://clayton-galy.notion.site/Rocket-d90630713c16411ab8e96c921ed79fd1)
 
@@ -150,6 +154,8 @@
 
 [Office](https://www.notion.so/Office-d40709bf409f4c368513c369fefc9b0e)
 
+[Sea Surfer](https://clayton-galy.notion.site/Sea-Surfer-0ac85e78556f4fb2bb51ed79414f7ecf)
+
 
 ## SQL Injection
 [The Marketplace](https://www.notion.so/The-Marketplace-5d12f389aafe456e92d65cdcd6e69165)
@@ -189,6 +195,10 @@
 [Lockdown](https://clayton-galy.notion.site/Lockdown-6341df4c35f5458abb9ea80cabebb672)
 
 [Gallery](https://clayton-galy.notion.site/Gallery-352d47177397434facacea649c62c501)
+
+
+## Server Side Request Forgery
+[Sea Surfer](https://clayton-galy.notion.site/Sea-Surfer-0ac85e78556f4fb2bb51ed79414f7ecf)
 
 
 ## Server Side Template Injection
@@ -231,6 +241,8 @@
 [The Marketplace](https://www.notion.so/The-Marketplace-5d12f389aafe456e92d65cdcd6e69165)
 
 [Misguided Ghosts](https://clayton-galy.notion.site/Misguided-Ghosts-b0c1192d602444dfa53bf7df67769bcb)
+
+[Sea Surfer](https://clayton-galy.notion.site/Sea-Surfer-0ac85e78556f4fb2bb51ed79414f7ecf)
 
 
 ## Account Takeover
@@ -322,6 +334,8 @@
 
 [Undiscovered](https://clayton-galy.notion.site/Undiscovered-d86be1a81e224e649b0e372f68dad214)
 
+[Sea Surfer](https://clayton-galy.notion.site/Sea-Surfer-0ac85e78556f4fb2bb51ed79414f7ecf)
+
 
 ## Apache Tomcat
 [TomGhost](https://www.notion.so/Tomghost-64fb41d75501412392f18637450011f4)
@@ -349,6 +363,8 @@
 [Jeff](https://clayton-galy.notion.site/Jeff-55f1534659fd4a8e8946b71bc59f1892)
 
 [Office](https://www.notion.so/Office-d40709bf409f4c368513c369fefc9b0e)
+
+[Sea Surfer](https://clayton-galy.notion.site/Sea-Surfer-0ac85e78556f4fb2bb51ed79414f7ecf)
 
 
 ## Moodle
@@ -821,6 +837,12 @@
 [Jeff](https://clayton-galy.notion.site/Jeff-55f1534659fd4a8e8946b71bc59f1892)
 
 [Plotted-EMR](https://clayton-galy.notion.site/Plotted-EMR-bd5ccb9b3f564bccb872983ebcb274d9)
+
+[Sea Surfer](https://clayton-galy.notion.site/Sea-Surfer-0ac85e78556f4fb2bb51ed79414f7ecf)
+
+
+## Sudo Token Abuse
+[Sea Surfer](https://clayton-galy.notion.site/Sea-Surfer-0ac85e78556f4fb2bb51ed79414f7ecf)
 
 
 ## LXD Abuse
