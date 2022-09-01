@@ -178,6 +178,8 @@
 
 [Revenge](https://clayton-galy.notion.site/Revenge-92556f8c324b43bfa1b8e54348a29a03)
 
+[Olympus](https://clayton-galy.notion.site/Olympus-62f7b7d741ae4a6bb994bbc0bc61be99)
+
 
 ## Upload Vulnerability
 [RootMe](https://www.notion.so/RootMe-7312739eac2a4905a6f49834804ada3f)
@@ -335,6 +337,8 @@
 [Undiscovered](https://clayton-galy.notion.site/Undiscovered-d86be1a81e224e649b0e372f68dad214)
 
 [Sea Surfer](https://clayton-galy.notion.site/Sea-Surfer-0ac85e78556f4fb2bb51ed79414f7ecf)
+
+[Olympus](https://clayton-galy.notion.site/Olympus-62f7b7d741ae4a6bb994bbc0bc61be99)
 
 
 ## Apache Tomcat
@@ -563,6 +567,8 @@
 [Jacob The Boss (PingSys)](https://clayton-galy.notion.site/Jacob-The-Boss-7bc3efa914714e589f15babb250d8402)
 
 [Undiscovered (Custom)](https://clayton-galy.notion.site/Undiscovered-d86be1a81e224e649b0e372f68dad214)
+
+[Olympus (Custom)](https://clayton-galy.notion.site/Olympus-62f7b7d741ae4a6bb994bbc0bc61be99)
 
 
 ## Sudo Abuse
