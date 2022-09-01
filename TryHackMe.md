@@ -5,6 +5,8 @@
 
 ## My Current List of TryHackMe Write-Ups of Challenge Boxes
 
+[Olympus](https://clayton-galy.notion.site/Olympus-62f7b7d741ae4a6bb994bbc0bc61be99)
+
 [Sea Surfer](https://clayton-galy.notion.site/Sea-Surfer-0ac85e78556f4fb2bb51ed79414f7ecf)
 
 [Undiscovered](https://clayton-galy.notion.site/Undiscovered-d86be1a81e224e649b0e372f68dad214)
