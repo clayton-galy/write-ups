@@ -130,6 +130,8 @@
 
 [Develpy](https://clayton-galy.notion.site/Develpy-39f1864520f144c9b7afd659c07799d5)
 
+[WWBuddy](https://clayton-galy.notion.site/WWBuddy-4ffa74f1df204038826c1c3305728ac6)
+
 
 ## Local File Inclusion
 [Dogcat](https://www.notion.so/Dogcat-6817cd10798b47b5975f8397618423de)
@@ -179,6 +181,8 @@
 [Revenge](https://clayton-galy.notion.site/Revenge-92556f8c324b43bfa1b8e54348a29a03)
 
 [Olympus](https://clayton-galy.notion.site/Olympus-62f7b7d741ae4a6bb994bbc0bc61be99)
+
+[WWBuddy](https://clayton-galy.notion.site/WWBuddy-4ffa74f1df204038826c1c3305728ac6)
 
 
 ## Upload Vulnerability
@@ -251,6 +255,8 @@
 [Battery](https://clayton-galy.notion.site/Battery-f28673d7f5074dacac37208287838f04)
 
 [Road](https://clayton-galy.notion.site/Road-adccc9f31d0d4d75bd37316a9260889c)
+
+[WWBuddy](https://clayton-galy.notion.site/WWBuddy-4ffa74f1df204038826c1c3305728ac6)
 
 
 ## Deserialization Vulnerability
@@ -522,6 +528,8 @@
 
 [Undiscovered](https://clayton-galy.notion.site/Undiscovered-d86be1a81e224e649b0e372f68dad214)
 
+[WWBuddy (SSH)](https://clayton-galy.notion.site/WWBuddy-4ffa74f1df204038826c1c3305728ac6)
+
 
 ## Buffer Overflow
 [Brainstorm](https://www.notion.so/Brainstorm-317a110a3cf04759bae0fbac474bd72f)
@@ -668,6 +676,8 @@
 
 [Tech Supp0rt: 1 (iconv)](https://clayton-galy.notion.site/Tech_Supp0rt-1-a86e34ab2ac54ead936efa52882d026e)
 
+[WWBuddy (Custom)](https://clayton-galy.notion.site/WWBuddy-4ffa74f1df204038826c1c3305728ac6)
+
 
 ## Shell Escape
 [The Server From Hell](https://www.notion.so/The-Server-From-Hell-0dcb99203c9444229ea8c04debf770c5)
@@ -771,6 +781,8 @@
 [Madeye's Castle](https://clayton-galy.notion.site/Madeye-s-Castle-8249f8c41094452b8876bc3b3ae50386)
 
 [Writeup](https://clayton-galy.notion.site/Writeup-f44d63f3889b44c0ba5dbfb38da0ab74)
+
+[WWBuddy](https://clayton-galy.notion.site/WWBuddy-4ffa74f1df204038826c1c3305728ac6)
 
 
 ## Python Library Hijack
