@@ -240,6 +240,8 @@
 
 [Plotted-EMR](https://clayton-galy.notion.site/Plotted-EMR-bd5ccb9b3f564bccb872983ebcb274d9)
 
+[BiteMe](https://clayton-galy.notion.site/Biteme-fc03d87ea8f44ea9a07e360331cd32f6)
+
 
 ## XML External Entity Vulnerability
 [Mustacchio](https://www.notion.so/Mustacchio-db6808eaae9540d1998d279f407b953d)
@@ -536,6 +538,8 @@
 
 [WWBuddy (SSH)](https://clayton-galy.notion.site/WWBuddy-4ffa74f1df204038826c1c3305728ac6)
 
+[BiteMe (MFA)](https://clayton-galy.notion.site/Biteme-fc03d87ea8f44ea9a07e360331cd32f6)
+
 
 ## Buffer Overflow
 [Brainstorm](https://www.notion.so/Brainstorm-317a110a3cf04759bae0fbac474bd72f)
@@ -755,6 +759,8 @@
 [VulnNet: Node](https://clayton-galy.notion.site/VulnNet-Node-6522214a41834830bbb4738c6e2aaa27)
 
 [Revenge](https://clayton-galy.notion.site/Revenge-92556f8c324b43bfa1b8e54348a29a03)
+
+[BiteMe](https://clayton-galy.notion.site/Biteme-fc03d87ea8f44ea9a07e360331cd32f6)
 
 
 ## SeImpersonatePrivilege
