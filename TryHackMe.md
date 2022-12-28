@@ -5,6 +5,8 @@
 
 ## My Current List of TryHackMe Write-Ups of Challenge Boxes
 
+[Annie](https://clayton-galy.notion.site/Annie-76f612fa2b4b4786864fca3d274c282b)
+
 [BiteMe](https://clayton-galy.notion.site/Biteme-fc03d87ea8f44ea9a07e360331cd32f6)
 
 [VulnNet: Endgame](https://clayton-galy.notion.site/VulnNet-Endgame-61926e2c08b64af4b4d91844533ee5fc)
