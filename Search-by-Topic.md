@@ -338,6 +338,8 @@
 
 [Undiscovered](https://clayton-galy.notion.site/Undiscovered-d86be1a81e224e649b0e372f68dad214)
 
+[Annie](https://clayton-galy.notion.site/Annie-76f612fa2b4b4786864fca3d274c282b)
+
 
 ## Subdomain Enumeration
 [CMesS](https://www.notion.so/CMesS-a00abac4a3a14a479048233f7e43a9b6)
@@ -587,6 +589,8 @@
 [Undiscovered (Custom)](https://clayton-galy.notion.site/Undiscovered-d86be1a81e224e649b0e372f68dad214)
 
 [Olympus (Custom)](https://clayton-galy.notion.site/Olympus-62f7b7d741ae4a6bb994bbc0bc61be99)
+
+[Annie (setcap)](https://clayton-galy.notion.site/Annie-76f612fa2b4b4786864fca3d274c282b)
 
 
 ## Sudo Abuse
