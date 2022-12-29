@@ -42,6 +42,7 @@
     - [SUID Vulnerabilities](#suid-vulnerabilities)
     - [Sudo Abuse](#sudo-abuse)
     - [Shell Escape](#shell-escape)
+    - [Local Packet Captures](#local-packet-captures)
     - [Pivoting - Port Forwards](#pivoting---port-forwards)
     - [File Capabilities Abuse](#file-capabilities-abuse)
     - [Writable Service Abuse](#writable-service-abuse)
@@ -241,6 +242,8 @@
 [Plotted-EMR](https://clayton-galy.notion.site/Plotted-EMR-bd5ccb9b3f564bccb872983ebcb274d9)
 
 [BiteMe](https://clayton-galy.notion.site/Biteme-fc03d87ea8f44ea9a07e360331cd32f6)
+
+[Aratus](https://clayton-galy.notion.site/Aratus-cbef3c609da34df4a75c0e4f515ca1fc)
 
 
 ## XML External Entity Vulnerability
@@ -699,6 +702,10 @@
 [Cat Pictures](https://clayton-galy.notion.site/Cat-Pictures-d627527484904f14952e18059338359e)
 
 [Jeff](https://clayton-galy.notion.site/Jeff-55f1534659fd4a8e8946b71bc59f1892)
+
+
+## Local Packet Captures
+[Aratus](https://clayton-galy.notion.site/Aratus-cbef3c609da34df4a75c0e4f515ca1fc)
 
 
 ## Pivoting - Port Forwards
