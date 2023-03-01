@@ -56,6 +56,7 @@
     - [LXD Abuse](#lxd-abuse)
     - [Firefox Credential Dump](#firefox-credential-dump)
     - [Docker](#docker)
+    - [Shared Object Hijack](#shared-object-hijack)
 
   - Windows
     - [Windows Machines](#windows-machines)
@@ -343,6 +344,8 @@
 
 [Annie](https://clayton-galy.notion.site/Annie-76f612fa2b4b4786864fca3d274c282b)
 
+[EnterPrize](https://clayton-galy.notion.site/EnterPrize-a94e69dc99684b4c80ba8e6b87474811)
+
 
 ## Subdomain Enumeration
 [CMesS](https://www.notion.so/CMesS-a00abac4a3a14a479048233f7e43a9b6)
@@ -358,6 +361,8 @@
 [Olympus](https://clayton-galy.notion.site/Olympus-62f7b7d741ae4a6bb994bbc0bc61be99)
 
 [VulnNet: Endgame](https://clayton-galy.notion.site/VulnNet-Endgame-61926e2c08b64af4b4d91844533ee5fc)
+
+[EnterPrize](https://clayton-galy.notion.site/EnterPrize-a94e69dc99684b4c80ba8e6b87474811)
 
 
 ## Apache Tomcat
@@ -484,6 +489,8 @@
 [RazorBlack](https://clayton-galy.notion.site/RazorBlack-fcce6c7c9e0c4181bbd5f72dc0ec77cc)
 
 [Shares](https://www.notion.so/Shares-cefc34033bca4380a81c991d862038f8)
+
+[EnterPrize](https://clayton-galy.notion.site/EnterPrize-a94e69dc99684b4c80ba8e6b87474811)
 
 
 ## MS-SQL
@@ -743,6 +750,8 @@
 
 [Develpy](https://clayton-galy.notion.site/Develpy-39f1864520f144c9b7afd659c07799d5)
 
+[EnterPrize](https://clayton-galy.notion.site/EnterPrize-a94e69dc99684b4c80ba8e6b87474811)
+
 
 ## File Capabilities Abuse
 [Kiba (Python3)](https://www.notion.so/Kiba-34ebde359ea749b0b0a0cf658f9c2e0f)
@@ -920,6 +929,10 @@
 [The Great Escape](https://clayton-galy.notion.site/The-Great-Escape-df6c47dc27d24ec2b6bd1da49f792db1)
 
 [Unbaked Pie](https://clayton-galy.notion.site/Unbaked-Pie-4dcef8a5da9d43f1b0757582d831372d)
+
+
+## Shared Object Hijack
+[EnterPrize](https://clayton-galy.notion.site/EnterPrize-a94e69dc99684b4c80ba8e6b87474811)
 
 
 ## Windows Machines
