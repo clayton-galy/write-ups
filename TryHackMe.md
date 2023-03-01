@@ -5,6 +5,8 @@
 
 ## My Current List of TryHackMe Write-Ups of Challenge Boxes
 
+[EnterPrize](https://clayton-galy.notion.site/EnterPrize-a94e69dc99684b4c80ba8e6b87474811)
+
 [Aratus](https://clayton-galy.notion.site/Aratus-cbef3c609da34df4a75c0e4f515ca1fc)
 
 [Annie](https://clayton-galy.notion.site/Annie-76f612fa2b4b4786864fca3d274c282b)
