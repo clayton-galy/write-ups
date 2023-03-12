@@ -50,7 +50,7 @@
     - [PGP Encryption](#pgp-encryption)
     - [Path Abuse](#path-abuse)
     - [Python Library Hijack](#python-library-hijack)
-    - [Cronjob - Scheduled Task Abuse](#cronjob---scheduled-task-abuse)
+    - [Cronjob - Scheduled Task - System Timers](#cronjob---scheduled-task---system-timers)
     - [Wildcard Exploitation](#wildcard-exploitation)
     - [Sudo Token Abuse](#sudo-token-abuse)
     - [LXD Abuse](#lxd-abuse)
@@ -347,6 +347,8 @@
 [Annie](https://clayton-galy.notion.site/Annie-76f612fa2b4b4786864fca3d274c282b)
 
 [EnterPrize](https://clayton-galy.notion.site/EnterPrize-a94e69dc99684b4c80ba8e6b87474811)
+
+[Ollie](https://clayton-galy.notion.site/Ollie-9aa3b323832e4f38ad8c61186501f210)
 
 
 ## Subdomain Enumeration
@@ -833,7 +835,7 @@
 [Unbaked Pie](https://clayton-galy.notion.site/Unbaked-Pie-4dcef8a5da9d43f1b0757582d831372d)
 
 
-## Cronjob - Scheduled Task Abuse
+## Cronjob - Scheduled Task - System Timers
 [Dogcat](https://www.notion.so/Dogcat-6817cd10798b47b5975f8397618423de)
 
 [Spice Hut](https://www.notion.so/Spice-Hut-0d150710f7bf4b129a280fb785b09ca3)
@@ -881,6 +883,8 @@
 [Develpy](https://clayton-galy.notion.site/Develpy-39f1864520f144c9b7afd659c07799d5)
 
 [CovertMyVideo](https://clayton-galy.notion.site/ConvertMyVideo-4e665eda683c48cb93ef693739ff0e15)
+
+[Ollie](https://clayton-galy.notion.site/Ollie-9aa3b323832e4f38ad8c61186501f210)
 
 
 ## Wildcard Exploitation
