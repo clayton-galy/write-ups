@@ -5,6 +5,8 @@
 
 ## My Current List of TryHackMe Write-Ups of Challenge Boxes
 
+[Ollie](https://clayton-galy.notion.site/Ollie-9aa3b323832e4f38ad8c61186501f210)
+
 [CovertMyVideo](https://clayton-galy.notion.site/ConvertMyVideo-4e665eda683c48cb93ef693739ff0e15)
 
 [EnterPrize](https://clayton-galy.notion.site/EnterPrize-a94e69dc99684b4c80ba8e6b87474811)
