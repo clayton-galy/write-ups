@@ -13,6 +13,7 @@
     - [Server Side Template Injection](#server-side-template-injection)
     - [Information Disclosure](#information-disclosure)
     - [XML External Entity Vulnerability](#xml-external-entity-vulnerability)
+    - [XPATH Injection](#xpath-injection)
     - [Cross-Site Scripting](#cross-site-scripting)
     - [Account Takeover](#account-takeover)
     - [Deserialization Vulnerability](#deserialization-vulnerability)
@@ -57,6 +58,7 @@
     - [Firefox Credential Dump](#firefox-credential-dump)
     - [Docker](#docker)
     - [Shared Object Hijack](#shared-object-hijack)
+    - [TMUX Takeover](#tmux-takeover)
 
   - Windows
     - [Windows Machines](#windows-machines)
@@ -253,6 +255,10 @@
 [Mustacchio](https://www.notion.so/Mustacchio-db6808eaae9540d1998d279f407b953d)
 
 [Battery](https://clayton-galy.notion.site/Battery-f28673d7f5074dacac37208287838f04)
+
+
+## XPATH Injection
+[Cold VVars](https://clayton-galy.notion.site/Cold-VVars-ecc59f1296d4487488b7b6e96562fe8c)
 
 
 ## Cross-Site Scripting
@@ -941,6 +947,12 @@
 
 ## Shared Object Hijack
 [EnterPrize](https://clayton-galy.notion.site/EnterPrize-a94e69dc99684b4c80ba8e6b87474811)
+
+
+## TMUX Takeover
+[Misguided Ghosts](https://clayton-galy.notion.site/Misguided-Ghosts-b0c1192d602444dfa53bf7df67769bcb)
+
+[Cold VVars](https://clayton-galy.notion.site/Cold-VVars-ecc59f1296d4487488b7b6e96562fe8c)
 
 
 ## Windows Machines
