@@ -894,6 +894,8 @@
 
 [Ollie](https://clayton-galy.notion.site/Ollie-9aa3b323832e4f38ad8c61186501f210)
 
+[Bashed](https://clayton-galy.notion.site/Bashed-637aeb15aa8342d8b686b940a42da60a)
+
 
 ## Wildcard Exploitation
 [The Marketplace](https://www.notion.so/The-Marketplace-5d12f389aafe456e92d65cdcd6e69165)
