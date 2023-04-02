@@ -358,6 +358,8 @@
 
 [Lame](https://clayton-galy.notion.site/Lame-bba9211f4cf24b5082c66f6a077407f2)
 
+[Nibbles](https://clayton-galy.notion.site/Nibbles-06e733ea6c2d461f9c7265ad97380985)
+
 
 ## Subdomain Enumeration
 [CMesS](https://www.notion.so/CMesS-a00abac4a3a14a479048233f7e43a9b6)
