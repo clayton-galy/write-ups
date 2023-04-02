@@ -5,6 +5,8 @@
 
 ## Write-Ups
 
+[Lame](https://clayton-galy.notion.site/Lame-bba9211f4cf24b5082c66f6a077407f2)
+
 [Forest](https://clayton-galy.notion.site/Forest-ac11e9af34c04596bf6cc2495c643b5f)
 
 [Heist](https://clayton-galy.notion.site/Heist-b4cd27cbe7d24c31ab8c94e212c7392d)
