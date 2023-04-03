@@ -360,6 +360,8 @@
 
 [Nibbles](https://clayton-galy.notion.site/Nibbles-06e733ea6c2d461f9c7265ad97380985)
 
+[Legacy](https://clayton-galy.notion.site/Legacy-f1d1b755cd3a41a5a8772624a2bb6c95)
+
 
 ## Subdomain Enumeration
 [CMesS](https://www.notion.so/CMesS-a00abac4a3a14a479048233f7e43a9b6)
