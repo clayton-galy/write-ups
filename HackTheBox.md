@@ -5,6 +5,8 @@
 
 ## Write-Ups
 
+[Blue](https://clayton-galy.notion.site/Blue-6276986a5f804a09bc553b0c23c7157d)
+
 [Legacy](https://clayton-galy.notion.site/Legacy-f1d1b755cd3a41a5a8772624a2bb6c95)
 
 [Nibbles](https://clayton-galy.notion.site/Nibbles-06e733ea6c2d461f9c7265ad97380985)
