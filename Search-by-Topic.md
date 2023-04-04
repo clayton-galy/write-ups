@@ -364,6 +364,8 @@
 
 [Blue](https://clayton-galy.notion.site/Blue-6276986a5f804a09bc553b0c23c7157d)
 
+[Devel](https://clayton-galy.notion.site/Devel-b11268c542274b06a9cf49efb83855ae)
+
 
 ## Subdomain Enumeration
 [CMesS](https://www.notion.so/CMesS-a00abac4a3a14a479048233f7e43a9b6)
@@ -965,6 +967,28 @@
 [Cold VVars](https://clayton-galy.notion.site/Cold-VVars-ecc59f1296d4487488b7b6e96562fe8c)
 
 
+## Metasploit
+[Office](https://www.notion.so/Office-d40709bf409f4c368513c369fefc9b0e)
+
+[Bolt](https://www.notion.so/Bolt-d98b6788803e41cf819c5b4d6db6e88a)
+
+[Blog](https://www.notion.so/Blog-472790879bab44fe9440350d19c65a6a)
+
+[Thompson](https://www.notion.so/Thompson-d039acbdf1df49d88a0ec1d29ec7c887)
+
+[Nax](https://www.notion.so/Nax-8ca0f2200d3d48fd8184f666089741af)
+
+[Lame](https://clayton-galy.notion.site/Lame-bba9211f4cf24b5082c66f6a077407f2)
+
+[Nibbles](https://clayton-galy.notion.site/Nibbles-06e733ea6c2d461f9c7265ad97380985)
+
+[Legacy](https://clayton-galy.notion.site/Legacy-f1d1b755cd3a41a5a8772624a2bb6c95)
+
+[Blue](https://clayton-galy.notion.site/Blue-6276986a5f804a09bc553b0c23c7157d)
+
+[Devel](https://clayton-galy.notion.site/Devel-b11268c542274b06a9cf49efb83855ae)
+
+
 ## Windows Machines
 [Anthem](https://www.notion.so/Anthem-abcbbaf36017410195740b023cb39689)
 
@@ -991,6 +1015,9 @@
 [Legacy](https://clayton-galy.notion.site/Legacy-f1d1b755cd3a41a5a8772624a2bb6c95)
 
 [Blue](https://clayton-galy.notion.site/Blue-6276986a5f804a09bc553b0c23c7157d)
+
+[Devel](https://clayton-galy.notion.site/Devel-b11268c542274b06a9cf49efb83855ae)
+
 
 ## Active Directory
 [Vulnnet: Roasted](https://clayton-galy.notion.site/VulnNet-Roasted-6042f02a9ef54296a70e8a65c084415a)
