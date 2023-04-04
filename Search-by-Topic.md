@@ -362,6 +362,8 @@
 
 [Legacy](https://clayton-galy.notion.site/Legacy-f1d1b755cd3a41a5a8772624a2bb6c95)
 
+[Blue](https://clayton-galy.notion.site/Blue-6276986a5f804a09bc553b0c23c7157d)
+
 
 ## Subdomain Enumeration
 [CMesS](https://www.notion.so/CMesS-a00abac4a3a14a479048233f7e43a9b6)
@@ -986,6 +988,9 @@
 
 [Forest](https://clayton-galy.notion.site/Forest-ac11e9af34c04596bf6cc2495c643b5f)
 
+[Legacy](https://clayton-galy.notion.site/Legacy-f1d1b755cd3a41a5a8772624a2bb6c95)
+
+[Blue](https://clayton-galy.notion.site/Blue-6276986a5f804a09bc553b0c23c7157d)
 
 ## Active Directory
 [Vulnnet: Roasted](https://clayton-galy.notion.site/VulnNet-Roasted-6042f02a9ef54296a70e8a65c084415a)
