@@ -251,6 +251,8 @@
 
 [Aratus](https://clayton-galy.notion.site/Aratus-cbef3c609da34df4a75c0e4f515ca1fc)
 
+[BrainF\*ck](https://clayton-galy.notion.site/Brainf-ck-5bb184153d1d46db8e35182f0d077d19)
+
 
 ## XML External Entity Vulnerability
 [Mustacchio](https://www.notion.so/Mustacchio-db6808eaae9540d1998d279f407b953d)
@@ -367,6 +369,8 @@
 
 [Devel](https://clayton-galy.notion.site/Devel-b11268c542274b06a9cf49efb83855ae)
 
+[BrainF\*ck](https://clayton-galy.notion.site/Brainf-ck-5bb184153d1d46db8e35182f0d077d19)
+
 
 ## Subdomain Enumeration
 [CMesS](https://www.notion.so/CMesS-a00abac4a3a14a479048233f7e43a9b6)
@@ -384,6 +388,8 @@
 [VulnNet: Endgame](https://clayton-galy.notion.site/VulnNet-Endgame-61926e2c08b64af4b4d91844533ee5fc)
 
 [EnterPrize](https://clayton-galy.notion.site/EnterPrize-a94e69dc99684b4c80ba8e6b87474811)
+
+[BrainF\*ck](https://clayton-galy.notion.site/Brainf-ck-5bb184153d1d46db8e35182f0d077d19)
 
 
 ## Apache Tomcat
@@ -414,6 +420,8 @@
 [Office](https://www.notion.so/Office-d40709bf409f4c368513c369fefc9b0e)
 
 [Sea Surfer](https://clayton-galy.notion.site/Sea-Surfer-0ac85e78556f4fb2bb51ed79414f7ecf)
+
+[BrainF\*ck](https://clayton-galy.notion.site/Brainf-ck-5bb184153d1d46db8e35182f0d077d19)
 
 
 ## Moodle
@@ -474,6 +482,8 @@
 [Misguided Ghosts](https://clayton-galy.notion.site/Misguided-Ghosts-b0c1192d602444dfa53bf7df67769bcb)
 
 [Develpy](https://clayton-galy.notion.site/Develpy-39f1864520f144c9b7afd659c07799d5)
+
+[BrainF\*ck](https://clayton-galy.notion.site/Brainf-ck-5bb184153d1d46db8e35182f0d077d19)
 
 
 ## Metasploit
