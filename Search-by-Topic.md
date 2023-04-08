@@ -371,6 +371,8 @@
 
 [BrainF\*ck](https://clayton-galy.notion.site/Brainf-ck-5bb184153d1d46db8e35182f0d077d19)
 
+[Optimum](https://clayton-galy.notion.site/Optimum-c9ef76652c83485b89bf8f27eb1e7368)
+
 
 ## Subdomain Enumeration
 [CMesS](https://www.notion.so/CMesS-a00abac4a3a14a479048233f7e43a9b6)
@@ -506,6 +508,8 @@
 [Blue](https://clayton-galy.notion.site/Blue-6276986a5f804a09bc553b0c23c7157d)
 
 [Devel](https://clayton-galy.notion.site/Devel-b11268c542274b06a9cf49efb83855ae)
+
+[Optimum](https://clayton-galy.notion.site/Optimum-c9ef76652c83485b89bf8f27eb1e7368)
 
 
 ## PCAP Analysis
@@ -1028,6 +1032,8 @@
 [Blue](https://clayton-galy.notion.site/Blue-6276986a5f804a09bc553b0c23c7157d)
 
 [Devel](https://clayton-galy.notion.site/Devel-b11268c542274b06a9cf49efb83855ae)
+
+[Optimum](https://clayton-galy.notion.site/Optimum-c9ef76652c83485b89bf8f27eb1e7368)
 
 
 ## Active Directory
