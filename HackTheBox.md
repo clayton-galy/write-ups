@@ -5,6 +5,8 @@
 
 ## Write-Ups
 
+[Optimum](https://clayton-galy.notion.site/Optimum-c9ef76652c83485b89bf8f27eb1e7368)
+
 [BrainF\*ck](https://clayton-galy.notion.site/Brainf-ck-5bb184153d1d46db8e35182f0d077d19)
 
 [Devel](https://clayton-galy.notion.site/Devel-b11268c542274b06a9cf49efb83855ae)
