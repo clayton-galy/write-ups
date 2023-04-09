@@ -167,6 +167,8 @@
 
 [Sea Surfer](https://clayton-galy.notion.site/Sea-Surfer-0ac85e78556f4fb2bb51ed79414f7ecf)
 
+[Beep](https://clayton-galy.notion.site/Beep-9a0a5f209a2a4ec28affef136682966b)
+
 
 ## SQL Injection
 [The Marketplace](https://www.notion.so/The-Marketplace-5d12f389aafe456e92d65cdcd6e69165)
@@ -372,6 +374,8 @@
 [BrainF\*ck](https://clayton-galy.notion.site/Brainf-ck-5bb184153d1d46db8e35182f0d077d19)
 
 [Optimum](https://clayton-galy.notion.site/Optimum-c9ef76652c83485b89bf8f27eb1e7368)
+
+[Beep](https://clayton-galy.notion.site/Beep-9a0a5f209a2a4ec28affef136682966b)
 
 
 ## Subdomain Enumeration
@@ -758,6 +762,8 @@
 [Tech Supp0rt: 1 (iconv)](https://clayton-galy.notion.site/Tech_Supp0rt-1-a86e34ab2ac54ead936efa52882d026e)
 
 [WWBuddy (Custom)](https://clayton-galy.notion.site/WWBuddy-4ffa74f1df204038826c1c3305728ac6)
+
+[Beep (Nmap)](https://clayton-galy.notion.site/Beep-9a0a5f209a2a4ec28affef136682966b)
 
 
 ## Shell Escape
