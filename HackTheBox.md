@@ -5,6 +5,8 @@
 
 ## Write-Ups
 
+[Cronos](https://clayton-galy.notion.site/Cronos-76b1324f309e449eb655b878adaceccc)
+
 [Beep](https://clayton-galy.notion.site/Beep-9a0a5f209a2a4ec28affef136682966b)
 
 [Optimum](https://clayton-galy.notion.site/Optimum-c9ef76652c83485b89bf8f27eb1e7368)
