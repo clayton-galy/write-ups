@@ -141,6 +141,8 @@
 
 [CovertMyVideo](https://clayton-galy.notion.site/ConvertMyVideo-4e665eda683c48cb93ef693739ff0e15)
 
+[Cronos](https://clayton-galy.notion.site/Cronos-76b1324f309e449eb655b878adaceccc)
+
 
 ## Local File Inclusion
 [Dogcat](https://www.notion.so/Dogcat-6817cd10798b47b5975f8397618423de)
@@ -196,6 +198,8 @@
 [WWBuddy](https://clayton-galy.notion.site/WWBuddy-4ffa74f1df204038826c1c3305728ac6)
 
 [VulnNet: Endgame](https://clayton-galy.notion.site/VulnNet-Endgame-61926e2c08b64af4b4d91844533ee5fc)
+
+[Cronos](https://clayton-galy.notion.site/Cronos-76b1324f309e449eb655b878adaceccc)
 
 
 ## Upload Vulnerability
@@ -396,6 +400,8 @@
 [EnterPrize](https://clayton-galy.notion.site/EnterPrize-a94e69dc99684b4c80ba8e6b87474811)
 
 [BrainF\*ck](https://clayton-galy.notion.site/Brainf-ck-5bb184153d1d46db8e35182f0d077d19)
+
+[Cronos](https://clayton-galy.notion.site/Cronos-76b1324f309e449eb655b878adaceccc)
 
 
 ## Apache Tomcat
@@ -946,6 +952,8 @@
 [Ollie](https://clayton-galy.notion.site/Ollie-9aa3b323832e4f38ad8c61186501f210)
 
 [Bashed](https://clayton-galy.notion.site/Bashed-637aeb15aa8342d8b686b940a42da60a)
+
+[Cronos](https://clayton-galy.notion.site/Cronos-76b1324f309e449eb655b878adaceccc)
 
 
 ## Wildcard Exploitation
