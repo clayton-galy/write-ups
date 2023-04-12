@@ -5,6 +5,8 @@
 
 ## Write-Ups
 
+[Nineveh](https://clayton-galy.notion.site/Nineveh-66bb8c3b4ca64145834f8f7f373248d9)
+
 [Cronos](https://clayton-galy.notion.site/Cronos-76b1324f309e449eb655b878adaceccc)
 
 [Beep](https://clayton-galy.notion.site/Beep-9a0a5f209a2a4ec28affef136682966b)
