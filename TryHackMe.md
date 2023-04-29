@@ -5,6 +5,8 @@
 
 ## My Current List of TryHackMe Write-Ups of Challenge Boxes
 
+[Opacity](https://clayton-galy.notion.site/Opacity-455925c789c14c839f9c3ffb3abd3ac6)
+
 [Cold VVars](https://clayton-galy.notion.site/Cold-VVars-ecc59f1296d4487488b7b6e96562fe8c)
 
 [Ollie](https://clayton-galy.notion.site/Ollie-9aa3b323832e4f38ad8c61186501f210)
