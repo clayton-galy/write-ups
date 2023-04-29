@@ -143,6 +143,8 @@
 
 [Cronos](https://clayton-galy.notion.site/Cronos-76b1324f309e449eb655b878adaceccc)
 
+[Opacity](https://clayton-galy.notion.site/Opacity-455925c789c14c839f9c3ffb3abd3ac6)
+
 
 ## Local File Inclusion
 [Dogcat](https://www.notion.so/Dogcat-6817cd10798b47b5975f8397618423de)
@@ -896,7 +898,7 @@
 [WWBuddy](https://clayton-galy.notion.site/WWBuddy-4ffa74f1df204038826c1c3305728ac6)
 
 
-## Python Library Hijack
+## Python / PHP Library Hijack
 [Watcher](https://www.notion.so/Watcher-d1b15b672cde416d871f572eb64df9cb)
 
 [Library](https://www.notion.so/Library-fac14cb4007048d8ba79563b3f3deb05)
@@ -906,6 +908,8 @@
 [VulnNet: dotpy](https://clayton-galy.notion.site/VulnNet-dotpy-9a3661a6e39442c186d92dda33ae7102)
 
 [Unbaked Pie](https://clayton-galy.notion.site/Unbaked-Pie-4dcef8a5da9d43f1b0757582d831372d)
+
+[Opacity](https://clayton-galy.notion.site/Opacity-455925c789c14c839f9c3ffb3abd3ac6)
 
 
 ## Cronjob - Scheduled Task - System Timers
@@ -964,6 +968,8 @@
 [Cronos](https://clayton-galy.notion.site/Cronos-76b1324f309e449eb655b878adaceccc)
 
 [Nineveh](https://clayton-galy.notion.site/Nineveh-66bb8c3b4ca64145834f8f7f373248d9)
+
+[Opacity](https://clayton-galy.notion.site/Opacity-455925c789c14c839f9c3ffb3abd3ac6)
 
 
 ## Wildcard Exploitation
