@@ -387,6 +387,8 @@
 
 [Nineveh](https://clayton-galy.notion.site/Nineveh-66bb8c3b4ca64145834f8f7f373248d9)
 
+[Bastard](https://clayton-galy.notion.site/Bastard-f4dd391bd6d54fbf80caa48b4e242e80)
+
 
 ## Subdomain Enumeration
 [CMesS](https://www.notion.so/CMesS-a00abac4a3a14a479048233f7e43a9b6)
@@ -1064,6 +1066,8 @@
 [Devel](https://clayton-galy.notion.site/Devel-b11268c542274b06a9cf49efb83855ae)
 
 [Optimum](https://clayton-galy.notion.site/Optimum-c9ef76652c83485b89bf8f27eb1e7368)
+
+[Bastard](https://clayton-galy.notion.site/Bastard-f4dd391bd6d54fbf80caa48b4e242e80)
 
 
 ## Active Directory
